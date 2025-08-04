@@ -1,4 +1,4 @@
-
+<a name="Englisch"></a>
 # BetterBags - Scrap
 [en] [de](#Deutsch)
 
@@ -91,6 +91,7 @@ Happy looting and junk cleanup!
 ---
 <a name="Deutsch"></a>
 # BetterBags - Scrap
+[en](#Englisch) [de]
 
 <img width="400" height="400" alt="ScrapCoinOverlay_400x400" src="https://github.com/user-attachments/assets/a67946a0-6366-4396-96c0-ea19d7b39c3d" />
 
