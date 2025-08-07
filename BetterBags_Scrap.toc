@@ -1,4 +1,4 @@
-## Interface: 50500, 110107
+## Interface: 50500, 110200
 ## Title: BetterBags - Scrap
 ## Notes: Adds Scrap support to BetterBags
 ## Author: Padparadscha
@@ -8,3 +8,4 @@
 ## IconTexture: Interface\Icons\inv_misc_coin_02
 	
 BetterBags_Scrap.lua
+
