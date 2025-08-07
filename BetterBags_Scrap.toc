@@ -2,10 +2,11 @@
 ## Title: BetterBags - Scrap
 ## Notes: Adds Scrap support to BetterBags
 ## Author: Padparadscha
-## Version: 0.1.0
+## Version: 0.1.1
 ## Dependencies: BetterBags
 ## OptionalDeps: Scrap
 ## IconTexture: Interface\Icons\inv_misc_coin_02
 	
 BetterBags_Scrap.lua
+
 
